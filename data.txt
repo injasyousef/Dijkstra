@@ -1,0 +1,203 @@
+51 151
+Germany 13.404954 52.520008
+Thailand 100.523186 13.736717
+Myanmar 96.199379 16.871311
+Indonesia 106.774124 -6.121435
+Nigeria 7.4833 9.0667
+Namibia 17.0832 -24.5594
+Madagascar 47.5361 -23.9137
+Pakistan 73.084488 33.738045
+Turkmenistan 58.238056 37.862499
+Norway 10.757933 59.911491
+GreenLand -34.7216 66.1835
+Oman 58.545284 23.614328
+Ethiopia 38.763611 9.005401
+Philippines 120.984222 14.599512
+Italy 12.496366 41.902782
+Saudi_Arabia 46.71667 24.63333
+Egypt 31.23528 30.04167
+China 116.348 39.959
+Algeria 3.04194 36.75333
+France 2.3522219 48.856614
+Libya 13.19611 32.87222
+Sudan 32.53333 15.63333
+USA -77.03667 38.89500
+Russia 37.6173 55.755826
+Brazil -46.1728965 -22.9068467
+Turkey 32.85417 39.91944
+Mali -8.0028892 12.6392316
+India 72.8776559 19.0759837
+Argentina -58.3712 -34.6037618
+Spain -3.7037902 40.4167754
+Canada -75.70000 50.41694
+Mexico -99.134007 19.380002
+Australia 149.12807 -35.28346
+Ukraine 30.52333 50.45000
+UK -0.0877583 53.2073509
+Morocco -6.8498129 33.9715904
+Colombia -74.072092 4.710988599999999
+Iran 51.3889736 35.6891975
+Japan 133.6503 35.6762
+Kazakhstan 71.449074 51.169392
+Iceland -13.827774 67.128288
+Mongolia 100.918556 48.921230
+Tanzania 35.73947 -6.17221
+Peru -77.042793 -12.046374
+Uruguay -52.164532 -39.901112
+Bolivia -65.119293 -18.489689
+Finland 24.945831 65.192059
+Sweden 18.063240 59.334591
+Chad 16.054325 12.137752
+Poland 21.017532 52.237049
+Nablus 4 40
+Nablus Sudan
+Mongolia Turkey
+Mongolia USA
+China Argentina
+China Peru
+Nigeria Egypt
+Ukraine Russia
+Iran Libya
+Norway Ethiopia
+India Mali
+Spain Oman
+Thailand India
+Iceland Saudi_Arabia
+Uruguay Colombia
+Kazakhstan Australia
+Finland Argentina
+USA France
+Mexico Spain
+Libya Turkmenistan
+Tanzania Brazil
+Pakistan Philippines
+Saudi_Arabia Ethiopia
+Germany Indonesia
+Pakistan Norway
+Philippines Ukraine
+UK Egypt
+Australia Canada
+GreenLand China
+Myanmar Peru
+India Nigeria
+Chad Philippines
+China Uruguay
+Nigeria Peru
+Indonesia Madagascar
+Peru Turkmenistan
+Myanmar Thailand
+Norway Uruguay
+GreenLand Kazakhstan
+Turkey Poland
+Ukraine Peru
+USA GreenLand
+Saudi_Arabia Bolivia
+Canada France
+Turkey GreenLand
+Peru Poland
+Iran Norway
+Libya Russia
+Mali Egypt
+Bolivia Madagascar
+Iran Mali
+Sweden Tanzania
+Ukraine Turkmenistan
+GreenLand Mexico
+Pakistan Brazil
+Myanmar Sudan
+Argentina Turkmenistan
+Brazil Morocco
+Finland Turkmenistan
+Tanzania Myanmar
+Namibia Italy
+Mali Australia
+Morocco Russia
+Algeria Argentina
+Algeria Finland
+Saudi_Arabia UK
+Canada Libya
+Bolivia Namibia
+Canada Germany
+Norway Iran
+France Italy
+Pakistan Kazakhstan
+Ukraine Tanzania
+Germany France
+Peru Algeria
+Ethiopia Algeria
+Sweden Brazil
+Sudan Bolivia
+Brazil Philippines
+Thailand Tanzania
+Sweden Saudi_Arabia
+UK Turkmenistan
+Madagascar Libya
+UK Brazil
+Ethiopia Iran
+Colombia Poland
+Italy Japan
+Ethiopia Colombia
+Canada Brazil
+Mali GreenLand
+Argentina Sweden
+Pakistan Colombia
+Mexico Mongolia
+Sweden Chad
+Ukraine Poland
+Philippines India
+Bolivia Mali
+Russia Mali
+Sudan Ukraine
+Namibia Germany
+Pakistan Saudi_Arabia
+Australia Germany
+Germany Algeria
+Argentina Indonesia
+Indonesia Brazil
+Philippines Russia
+Ukraine Algeria
+Chad Turkey
+Libya Tanzania
+Turkmenistan Sudan
+Chad Saudi_Arabia
+Ethiopia Spain
+France Brazil
+Australia Chad
+Colombia France
+Turkmenistan GreenLand
+GreenLand Oman
+Japan Brazil
+Egypt Saudi_Arabia
+Namibia GreenLand
+UK Peru
+Japan GreenLand
+Tanzania Bolivia
+Thailand Poland
+Bolivia USA
+Mexico Uruguay
+Iran Russia
+Egypt Finland
+Mexico Saudi_Arabia
+Canada Madagascar
+Philippines Spain
+Colombia Mexico
+Tanzania China
+Peru Brazil
+Ukraine Turkey
+Ukraine Morocco
+Russia Myanmar
+Sweden Oman
+Chad Turkmenistan
+Canada India
+Brazil GreenLand
+USA Algeria
+Poland Madagascar
+Italy Brazil
+Canada Turkmenistan
+Norway Philippines
+Brazil Spain
+Iceland Ethiopia
+Spain Indonesia
+Germany GreenLand
+Namibia Iceland
+Namibia Egypt
